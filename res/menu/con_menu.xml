@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mn1"
+    android:title="Ubuntu" />
+    <item android:id="@+id/mn2"
+    android:title="Open Suse" />
+    <item android:id="@+id/mn3"
+    android:title="Mandriva" />
+    <item android:id="@+id/mn4"
+    android:title="Linux Mint" />
+    <item android:id="@+id/mn5"
+    android:title="Red Hat" />
+    <item android:id="@+id/mn6"
+    android:title="Fedora" />
+    <item android:id="@+id/mn7"
+    android:title="BlankOn" />
+    <item android:id="@+id/mn8"
+    android:title="Kubuntu" />
+    <item android:id="@+id/mn9"
+    android:title="Debian" />
+    <item android:id="@+id/mn10"
+    android:title="Mandrake" />
+</menu>
